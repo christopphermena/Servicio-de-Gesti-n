@@ -1,0 +1,42 @@
+# ======= ARCHIVOS DE PYTHON =======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======= ENTORNOS VIRTUALES =======
+venv/
+env/
+.venv/
+
+# ======= CONFIGURACIONES LOCALES =======
+.env
+*.env
+
+# ======= ARCHIVOS DE LOG =======
+*.log
+
+# ======= ARCHIVOS TEMPORALES =======
+*.tmp
+*.temp
+.DS_Store
+
+# ======= CONFIGURACIÓN DE EDITORES =======
+.vscode/
+.idea/
+
+# ======= SALIDAS GENERADAS =======
+*.txt
+*.pdf
+
+# vouchers generados por tu app
+voucher_carrito_*.txt
+
+# ======= PRUEBAS =======
+htmlcov/
+.coverage
+.cache/
+
+# ======= ARCHIVOS DE BACKUP =======
+*~
+*.bak
